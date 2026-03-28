@@ -21,3 +21,30 @@
          height="55">
   </a>
 </p>
+
+---
+
+<p align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=27&duration=1&pause=1000&color=00E5FFFA&center=true&vCenter=true&width=435&lines=%D0%93%D0%B0%D0%B9%D0%B4%D1%8B" alt="Typing SVG" /></a></p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/e6eeaeef-0bf3-43a7-8598-f2accb6d0fb8" width="80"><br>
+        <b>Android</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/dca21132-8674-4300-aab1-16fefc314f13" width="80"><br>
+        <b>Windows</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/53dd7339-5e4e-49b4-9ef7-3ec60b84e8ca" width="80"><br>
+        <b>iOS</b>
+      </a>
+    </td>
+  </tr>
+</table>
