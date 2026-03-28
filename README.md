@@ -26,7 +26,8 @@
 
 <p align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=27&duration=1&pause=1000&color=00E5FFFA&center=true&vCenter=true&width=435&lines=%D0%93%D0%B0%D0%B9%D0%B4%D1%8B" alt="Typing SVG" /></a></p>
 
-<table align="center">
+<p align="center">
+<table>
   <tr>
     <td align="center">
       <a href="#">
@@ -48,6 +49,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 <img width="100%" alt="footer image" src="https://github.com/user-attachments/assets/b8c2319a-da4d-4bc1-a3c1-c52bb046bd44" />
 
