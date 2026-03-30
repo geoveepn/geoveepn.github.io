@@ -17,9 +17,7 @@
 4. В hiddify нажимаем на большую кнопку в центре
 	<img width="1906" height="1406" alt="image" src="https://github.com/user-attachments/assets/0b9d41be-101d-43dd-a231-9968a5fcb542" />
 
-
-https://github.com/user-attachments/assets/6cbca676-6b8c-4407-80b0-e621e649b027
-
+	https://github.com/user-attachments/assets/6cbca676-6b8c-4407-80b0-e621e649b027
 
 ### В hiddify
 1. **Копируем** наш ключ(ссылку на подписку)
@@ -30,6 +28,7 @@ https://github.com/user-attachments/assets/6cbca676-6b8c-4407-80b0-e621e649b027
 4. Подключемся с помощью большой кнопки в центре
 	<img width="1906" height="1406" alt="image" src="https://github.com/user-attachments/assets/5dc92666-c081-4732-abe4-fc3dfe0ebeda" />
 
+	https://github.com/user-attachments/assets/c6911d4e-57ac-439a-9954-b93491b4100f
 
 ### Что тут отображается
 Пинг(до сервера vpn):
