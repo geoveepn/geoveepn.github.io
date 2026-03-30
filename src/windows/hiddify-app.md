@@ -41,5 +41,6 @@ https://github.com/user-attachments/assets/6cbca676-6b8c-4407-80b0-e621e649b027
 > [!WARNING]
 > **Обновляйте Hiddify до самой последней версии** (например, через Microsoft Store).
 > В некоторых случаях это действительно необходимо. Например, на момент написания этого гайда актуальная версия была `4.1.1`, а на `2.5.7` при попытке добавить ключ/конфиг **возникала ошибка**:
-> <img width="996" height="804" alt="image" src="https://github.com/user-attachments/assets/aeb47420-b0f8-482f-8605-275655657cf0" />
+> <img width="755" height="356" alt="image" src="https://github.com/user-attachments/assets/affb6844-1a13-48e4-8690-8163ede6aee1" />
+
 
